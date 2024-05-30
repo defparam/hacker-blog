@@ -8,5 +8,5 @@ Hi, I'm Evan! also known as [defparam](https://x.com/defparam). I'm a security r
 
 <br>
 <p align="center">
-  <img src="https://defparam.github.io/assets/images/evan.jpg" width="300" alt="Me!">
+  <img src="https://defparam.github.io/assets/evan.jpg" width="300" alt="Me!">
 </p>
