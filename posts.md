@@ -1,8 +1,9 @@
 ---
 layout: page
-title: Archive
+title: Posts
 ---
 
+# Posts
 <section>
   {% if site.posts[0] %}
 
